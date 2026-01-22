@@ -1,0 +1,29 @@
+[
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/45709e0bb07e43bd9e652991779d4dfa/styx-master-of-shadows-17of4.jpg?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/styx-master-of-shadows-4d9ab3",
+    "titleGame": "Styx: Master of Shadows",
+    "currentFree": true,
+    "currentFreeText": "Gratis hasta el 22 ene a la(s) 17:00",
+    "dateTime": "2026-01-22T16:00:00.000Z",
+    "dateInMiliseconds": 1769097600000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/6ccdf6a1518741f0842177137adc00b0/styx-shards-of-darkness-1bh52.jpg?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/styx-shards-of-darkness-77c030",
+    "titleGame": "Styx: Shards of Darkness - Deluxe Edition",
+    "currentFree": true,
+    "currentFreeText": "Gratis hasta el 22 ene a la(s) 17:00",
+    "dateTime": "2026-01-22T16:00:00.000Z",
+    "dateInMiliseconds": 1769097600000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-1ukey.jpg?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/rustler-grand-theft-horse-21a7ca",
+    "titleGame": "Rustler - Grand Theft Horse",
+    "currentFree": false,
+    "currentFreeText": "Gratis del 22 ene al 29 ene",
+    "dateTime": "2026-01-22T16:00:00.000Z",
+    "dateInMiliseconds": 1769097600000
+  }
+]
