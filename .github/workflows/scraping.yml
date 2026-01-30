@@ -33,6 +33,8 @@ jobs:
         with:
           name: scraped-data
           path: src/db/db.json
+          overwrite: true
+          retention-days: 1
 
       - name: Commit updated data
         uses: EndBug/add-and-commit@v9
