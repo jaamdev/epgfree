@@ -28,6 +28,12 @@ jobs:
       - name: Run scraper
         run: npm run scraper
 
+      - name: Upload scraped data for the next job
+        uses: actions/upload-artifact@v6
+        with:
+          name: scraped-data
+          path: src/db/db.json
+
       - name: Commit updated data
         uses: EndBug/add-and-commit@v9
         with:
@@ -37,32 +43,43 @@ jobs:
           add: 'src/db/db.json'
 
   deploy:
-    name: Deploy to GitHub Pages
-    needs: 'scraper-and-commit'
+    needs: scraper-and-commit
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-    concurrency:
-      group: 'pages'
-
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Config Node.js
+      - name: Download scraped data
+        uses: actions/download-artifact@v6
+        with:
+          name: scraped-data
+          path: src/db/
+
+      - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
           node-version: '24'
           cache: 'npm'
 
-      - name: Install dependencies
-        run: npm ci
+      - name: Install dependencies and build
+        run: |
+          npm ci
+          npm run build
 
-      - name: Build
-        run: npm run build
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: './dist'
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+        id: deployment
+        uses: actions/deploy-pages@v4
