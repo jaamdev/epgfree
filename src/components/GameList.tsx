@@ -5,6 +5,17 @@ type Props = {
 }
 
 export default function GameList({ list }: Props) {
+
+  if (list.length === 0) {
+    return (
+      <h3
+        className='py-4 text-center text-xl font-semibold'
+      >
+        No hay juegos disponibles en este momento
+      </h3>
+    )
+  }
+
   return <ul
     className='
       size-full m-auto px-2 py-1 max-w-6xl
