@@ -6,37 +6,32 @@ on:
   workflow_dispatch:
 
 jobs:
-  scrape:
+  scrape-and-commit:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v6
 
       - name: Config Node.js
         uses: actions/setup-node@v6
         with:
           node-version: '24'
+          cache: 'npm'
 
       - name: Install dependencies
         run: npm ci
 
-      - name: Run scraping
+      - name: Run scraper script
         run: npm run scraper
+        # Asegúrate de tener tsx o ts-node instalado
 
-      - name: Upload extracted data as an artifact
-        uses: actions/upload-artifact@v6
+      - name: Commit updated data
+        uses: EndBug/add-and-commit@v9
         with:
-          name: scraping-data
-          path: src/db/db.json
-          overwrite: true
-          retention-days: 1
-
-      - name: Save extracted data to repository
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add src/db/db.json
-          git commit -m "Update database - $(date)" || echo "No changes to commit"
-          git push
+          author_name: 'GitHub Actions'
+          author_email: 'actions@github.com'
+          message: 'chore: update scraped data'
+          add: 'src/db/db.json'
