@@ -56,21 +56,17 @@ export default function Clock(
       )
     }
 
-    {
-      minutes > 0 && (
-        <div className='circle'>
-          <div
-            className='dots min_dot'
-            style={{ transform: minutesRotate }}
-          ></div>
-          <svg>
-            <circle cx='70' cy='70' r='70' />
-            <circle cx='70' cy='70' r='70' strokeDashoffset={minutesDashoffset} />
-          </svg>
-          <div id='minutes'>{mm}<br /><span>Minutos</span></div>
-        </div>
-      )
-    }
+    <div className='circle'>
+      <div
+        className='dots min_dot'
+        style={{ transform: minutesRotate }}
+      ></div>
+      <svg>
+        <circle cx='70' cy='70' r='70' />
+        <circle cx='70' cy='70' r='70' strokeDashoffset={minutesDashoffset} />
+      </svg>
+      <div id='minutes'>{mm}<br /><span>Minutos</span></div>
+    </div>
 
     <div className='circle'>
       <div
