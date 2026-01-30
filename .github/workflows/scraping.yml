@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  install:
-    name: Install Dependencies
+  scraper-and-commit:
+    name: Run Scraper and Commit Data
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -35,6 +35,22 @@ jobs:
           author_email: 'actions@github.com'
           message: 'chore: update scraped data'
           add: 'src/db/db.json'
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: ['scraper-and-commit']
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: 'pages'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Config Node.js
+        uses: actions/setup-node@v6
 
       - name: Build
         run: npm run build
