@@ -1,38 +1,38 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/download-the-darkside-detective-a-fumble-in-the-dark-offer-1kw13.jpg?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/the-darkside-detective-a-fumble-in-the-dark-174fcf",
-    "titleGame": "La Detective Oscura: un Tropezón en la Oscuridad",
-    "currentFree": true,
-    "currentFreeText": "Gratis hasta el 19 feb a la(s) 10:00",
-    "dateTime": "2026-02-19T16:00:00.000Z",
-    "dateInMiliseconds": 1771516800000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-kp3sf.jpg?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/nobody-wants-to-die-fe21cd",
-    "titleGame": "Nobody Wants to Die",
-    "currentFree": true,
-    "currentFreeText": "Gratis hasta el 19 feb a la(s) 10:00",
-    "dateTime": "2026-02-19T16:00:00.000Z",
-    "dateInMiliseconds": 1771516800000
-  },
-  {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/07c1bf7c44dc4c2e8567923f03c7d307/return-to-ash-z874e.png?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/es-ES/p/return-to-ash-dee3ff",
     "titleGame": "Return to Ash",
-    "currentFree": false,
-    "currentFreeText": "Gratis del 19 feb al 26 feb",
-    "dateTime": "2026-02-19T16:00:00.000Z",
-    "dateInMiliseconds": 1771516800000
+    "currentFree": true,
+    "currentFreeText": "Gratis hasta el 26 feb a la(s) 10:00",
+    "dateTime": "2026-02-26T16:00:00.000Z",
+    "dateInMiliseconds": 1772121600000
   },
   {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-2ckdu.png?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/es-ES/p/stalcraft-x-stalcraft-x-starter-edition-0b06d4",
     "titleGame": "STALCRAFT: X Edición Starter",
+    "currentFree": true,
+    "currentFreeText": "Gratis hasta el 26 feb a la(s) 10:00",
+    "dateTime": "2026-02-26T16:00:00.000Z",
+    "dateInMiliseconds": 1772121600000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1m9c2.png?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/boxes-lost-fragments-079041",
+    "titleGame": "Boxes: Lost Fragments",
     "currentFree": false,
-    "currentFreeText": "Gratis del 19 feb al 26 feb",
-    "dateTime": "2026-02-19T16:00:00.000Z",
-    "dateInMiliseconds": 1771516800000
+    "currentFreeText": "Gratis del 26 feb al 05 mar",
+    "dateTime": "2026-02-26T16:00:00.000Z",
+    "dateInMiliseconds": 1772121600000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/2f10ff8aadbb413a9f5b26bae07977af/my-night-job-907en.jpg?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/my-night-job-a416a6",
+    "titleGame": "My Night Job",
+    "currentFree": false,
+    "currentFreeText": "Gratis del 26 feb al 05 mar",
+    "dateTime": "2026-02-26T16:00:00.000Z",
+    "dateInMiliseconds": 1772121600000
   }
 ]
