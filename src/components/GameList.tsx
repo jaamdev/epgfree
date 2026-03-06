@@ -36,7 +36,7 @@ export default function GameList({ list }: Props) {
         '
       >
         <h3 className={`w-full px-1 py-2 m-auto text-center uppercase tracking-wide font-semibold ${currentFree ? 'bg-primary' : 'bg-black'}`}>{currentFree ? 'gratis ahora' : 'próximamente'}</h3>
-        <img alt={titleGame} src={urlImg} className='size-full object-cover aspect-video' />
+        <img alt={titleGame} src={urlImg} className='size-full object-cover' />
         <h2 className='
             w-full px-1 py-2 text-center bg-secondary
             group-hover:bg-primary text-xl font-semibold
