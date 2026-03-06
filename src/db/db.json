@@ -1,38 +1,38 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-1m9c2.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/boxes-lost-fragments-079041",
-    "titleGame": "Boxes: Lost Fragments",
-    "currentFree": true,
-    "currentFreeText": "Gratis hasta el 05 mar a la(s) 09:00",
-    "dateTime": "2026-03-05T16:00:00.000Z",
-    "dateInMiliseconds": 1772726400000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/2f10ff8aadbb413a9f5b26bae07977af/my-night-job-907en.jpg?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/my-night-job-a416a6",
-    "titleGame": "My Night Job",
-    "currentFree": true,
-    "currentFreeText": "Gratis hasta el 05 mar a la(s) 09:00",
-    "dateTime": "2026-03-05T16:00:00.000Z",
-    "dateInMiliseconds": 1772726400000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1kami.jpg?resize=1&w=360&h=480&quality=medium",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1ved6.jpg?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/es-ES/p/idle-champions-of-the-forgotten-realms",
     "titleGame": "Idle Champions de Forgotten Realms",
-    "currentFree": false,
-    "currentFreeText": "Gratis del 05 mar al 12 mar",
-    "dateTime": "2026-03-05T16:00:00.000Z",
-    "dateInMiliseconds": 1772726400000
+    "currentFree": true,
+    "currentFreeText": "Gratis hasta el 12 mar a la(s) 16:00",
+    "dateTime": "2026-03-12T15:00:00.000Z",
+    "dateInMiliseconds": 1773327600000
   },
   {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/12f0012342a94c95985afbaa7568b51b/turnip-boy-robs-a-bank-1gqxf.png?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/es-ES/p/turnip-boy-robs-a-bank-3fae0e",
     "titleGame": "Turnip Boy Robs a Bank",
+    "currentFree": true,
+    "currentFreeText": "Gratis hasta el 12 mar a la(s) 16:00",
+    "dateTime": "2026-03-12T15:00:00.000Z",
+    "dateInMiliseconds": 1773327600000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/768ec2d3b5114ac4a800631b12ee3f31/offer/CG.2-1200x1600-6b8cbe5523543a3d16aa1d0aef8f188d.jpg?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/cozy-grove",
+    "titleGame": "Cozy Grove",
     "currentFree": false,
-    "currentFreeText": "Gratis del 05 mar al 12 mar",
-    "dateTime": "2026-03-05T16:00:00.000Z",
-    "dateInMiliseconds": 1772726400000
+    "currentFreeText": "Gratis del 12 mar al 19 mar",
+    "dateTime": "2026-03-12T15:00:00.000Z",
+    "dateInMiliseconds": 1773327600000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_Isonzo_BlackMillGames_S2_1200x1600-1225b5b75f29ea6723fcb23b2f3fae46?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/isonzo",
+    "titleGame": "Isonzo",
+    "currentFree": false,
+    "currentFreeText": "Gratis del 12 mar al 19 mar",
+    "dateTime": "2026-03-12T15:00:00.000Z",
+    "dateInMiliseconds": 1773327600000
   }
 ]
