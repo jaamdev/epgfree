@@ -1,38 +1,38 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1ved6.jpg?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/idle-champions-of-the-forgotten-realms",
-    "titleGame": "Idle Champions de Forgotten Realms",
-    "currentFree": true,
-    "currentFreeText": "Gratis hasta el 12 mar a la(s) 16:00",
-    "dateTime": "2026-03-12T15:00:00.000Z",
-    "dateInMiliseconds": 1773327600000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/12f0012342a94c95985afbaa7568b51b/turnip-boy-robs-a-bank-1gqxf.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/turnip-boy-robs-a-bank-3fae0e",
-    "titleGame": "Turnip Boy Robs a Bank",
-    "currentFree": true,
-    "currentFreeText": "Gratis hasta el 12 mar a la(s) 16:00",
-    "dateTime": "2026-03-12T15:00:00.000Z",
-    "dateInMiliseconds": 1773327600000
-  },
-  {
     "urlImg": "https://cdn1.epicgames.com/768ec2d3b5114ac4a800631b12ee3f31/offer/CG.2-1200x1600-6b8cbe5523543a3d16aa1d0aef8f188d.jpg?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/es-ES/p/cozy-grove",
     "titleGame": "Cozy Grove",
-    "currentFree": false,
-    "currentFreeText": "Gratis del 12 mar al 19 mar",
-    "dateTime": "2026-03-12T15:00:00.000Z",
-    "dateInMiliseconds": 1773327600000
+    "currentFree": true,
+    "currentFreeText": "Gratis hasta el 19 mar a la(s) 10:00",
+    "dateTime": "2026-03-19T15:00:00.000Z",
+    "dateInMiliseconds": 1773932400000
   },
   {
     "urlImg": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_Isonzo_BlackMillGames_S2_1200x1600-1225b5b75f29ea6723fcb23b2f3fae46?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/es-ES/p/isonzo",
     "titleGame": "Isonzo",
+    "currentFree": true,
+    "currentFreeText": "Gratis hasta el 19 mar a la(s) 10:00",
+    "dateTime": "2026-03-19T15:00:00.000Z",
+    "dateInMiliseconds": 1773932400000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/d0be4faac92a49ebae039c0e0d386e42/electrician-simulator-musl9.png?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/electrician-simulator-164e9f",
+    "titleGame": "Electrician Simulator",
     "currentFree": false,
-    "currentFreeText": "Gratis del 12 mar al 19 mar",
-    "dateTime": "2026-03-12T15:00:00.000Z",
-    "dateInMiliseconds": 1773327600000
+    "currentFreeText": "Gratis del 19 mar al 26 mar",
+    "dateTime": "2026-03-19T15:00:00.000Z",
+    "dateInMiliseconds": 1773932400000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-tll35.png?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/world-of-warships-world-of-warships-—-tachibana-lima-pack-5930e4",
+    "titleGame": "World of Warships – Paquete épico de aniversario del Tachibana",
+    "currentFree": false,
+    "currentFreeText": "Gratis del 19 mar al 26 mar",
+    "dateTime": "2026-03-19T15:00:00.000Z",
+    "dateInMiliseconds": 1773932400000
   }
 ]
