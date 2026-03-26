@@ -1,38 +1,29 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/d0be4faac92a49ebae039c0e0d386e42/electrician-simulator-musl9.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/electrician-simulator-164e9f",
-    "titleGame": "Electrician Simulator",
-    "currentFree": true,
-    "currentFreeText": "Gratis hasta el 26 mar a la(s) 10:00",
-    "dateTime": "2026-03-26T15:00:00.000Z",
-    "dateInMiliseconds": 1774537200000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-tll35.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/world-of-warships-world-of-warships-—-tachibana-lima-pack-5930e4",
-    "titleGame": "World of Warships – Paquete épico de aniversario del Tachibana",
-    "currentFree": true,
-    "currentFreeText": "Gratis hasta el 26 mar a la(s) 10:00",
-    "dateTime": "2026-03-26T15:00:00.000Z",
-    "dateInMiliseconds": 1774537200000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/180018125def4cbabef241f199a79f35/havendock-xml9y.png?resize=1&w=360&h=480&quality=medium",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/180018125def4cbabef241f199a79f35/havendock-r2ivl.png?resize=1&w=854&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/es-ES/p/havendock-64983e",
     "titleGame": "Havendock",
-    "currentFree": false,
-    "currentFreeText": "Gratis del 26 mar al 02 abr",
-    "dateTime": "2026-03-26T15:00:00.000Z",
-    "dateInMiliseconds": 1774537200000
+    "currentFree": true,
+    "currentFreeText": "Gratis hasta el 02 abr a la(s) 10:00",
+    "dateTime": "2026-04-02T15:00:00.000Z",
+    "dateInMiliseconds": 1775142000000
   },
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/866f5f0834324794a87759b5f4854636/hyper-echelon-11w7f.png?resize=1&w=360&h=480&quality=medium",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/866f5f0834324794a87759b5f4854636/hyper-echelon-13b9q.png?resize=1&w=854&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/es-ES/p/hyper-echelon-2d23ff",
     "titleGame": "Hyper Echelon",
+    "currentFree": true,
+    "currentFreeText": "Gratis hasta el 02 abr a la(s) 10:00",
+    "dateTime": "2026-04-02T15:00:00.000Z",
+    "dateInMiliseconds": 1775142000000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/2300be8843b24d9a8abaa663a2b544f8/clone-drone-in-the-danger-zone-1cmlu.png?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/clone-drone-in-the-danger-zone-4daf6e",
+    "titleGame": "Clone Drone in the Danger Zone",
     "currentFree": false,
-    "currentFreeText": "Gratis del 26 mar al 02 abr",
-    "dateTime": "2026-03-26T15:00:00.000Z",
-    "dateInMiliseconds": 1774537200000
+    "currentFreeText": "Gratis del 02 abr al 09 abr",
+    "dateTime": "2026-04-02T15:00:00.000Z",
+    "dateInMiliseconds": 1775142000000
   }
 ]
