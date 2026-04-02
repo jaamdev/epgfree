@@ -1,29 +1,29 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/180018125def4cbabef241f199a79f35/havendock-r2ivl.png?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/havendock-64983e",
-    "titleGame": "Havendock",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1cvou.png?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/tomak-save-the-earth-regeneration-c1207c",
+    "titleGame": "TOMAK: Save the Earth Regeneration",
     "currentFree": true,
-    "currentFreeText": "Gratis hasta el 02 abr a la(s) 10:00",
-    "dateTime": "2026-04-02T15:00:00.000Z",
-    "dateInMiliseconds": 1775142000000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/866f5f0834324794a87759b5f4854636/hyper-echelon-13b9q.png?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/hyper-echelon-2d23ff",
-    "titleGame": "Hyper Echelon",
-    "currentFree": true,
-    "currentFreeText": "Gratis hasta el 02 abr a la(s) 10:00",
-    "dateTime": "2026-04-02T15:00:00.000Z",
-    "dateInMiliseconds": 1775142000000
+    "currentFreeText": "Gratis hasta el 16 abr a la(s) 08:00",
+    "dateTime": "2026-04-16T15:00:00.000Z",
+    "dateInMiliseconds": 1776351600000
   },
   {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/2300be8843b24d9a8abaa663a2b544f8/clone-drone-in-the-danger-zone-1cmlu.png?resize=1&w=854&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/es-ES/p/clone-drone-in-the-danger-zone-4daf6e",
     "titleGame": "Clone Drone in the Danger Zone",
+    "currentFree": true,
+    "currentFreeText": "Gratis hasta el 09 abr a la(s) 08:00",
+    "dateTime": "2026-04-09T15:00:00.000Z",
+    "dateInMiliseconds": 1775746800000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1inog.jpg?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/propsumo-ca8bd7",
+    "titleGame": "Prop Sumo",
     "currentFree": false,
-    "currentFreeText": "Gratis del 02 abr al 09 abr",
-    "dateTime": "2026-04-02T15:00:00.000Z",
-    "dateInMiliseconds": 1775142000000
+    "currentFreeText": "Gratis del 09 abr al 16 abr",
+    "dateTime": "2026-04-09T15:00:00.000Z",
+    "dateInMiliseconds": 1775746800000
   }
 ]
