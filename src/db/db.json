@@ -1,29 +1,29 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1cvou.png?resize=1&w=854&h=480&quality=medium",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-10jsb.png?resize=1&w=854&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/es-ES/p/tomak-save-the-earth-regeneration-c1207c",
     "titleGame": "TOMAK: Save the Earth Regeneration",
     "currentFree": true,
-    "currentFreeText": "Gratis hasta el 16 abr a la(s) 08:00",
+    "currentFreeText": "Gratis hasta el 16 abr a la(s) 10:00",
     "dateTime": "2026-04-16T15:00:00.000Z",
     "dateInMiliseconds": 1776351600000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/2300be8843b24d9a8abaa663a2b544f8/clone-drone-in-the-danger-zone-1cmlu.png?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/clone-drone-in-the-danger-zone-4daf6e",
-    "titleGame": "Clone Drone in the Danger Zone",
-    "currentFree": true,
-    "currentFreeText": "Gratis hasta el 09 abr a la(s) 08:00",
-    "dateTime": "2026-04-09T15:00:00.000Z",
-    "dateInMiliseconds": 1775746800000
   },
   {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1inog.jpg?resize=1&w=854&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/es-ES/p/propsumo-ca8bd7",
     "titleGame": "Prop Sumo",
+    "currentFree": true,
+    "currentFreeText": "Gratis hasta el 16 abr a la(s) 10:00",
+    "dateTime": "2026-04-16T15:00:00.000Z",
+    "dateInMiliseconds": 1776351600000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-hvdla.jpg?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/the-stone-of-madness-7b22f3",
+    "titleGame": "The Stone of Madness",
     "currentFree": false,
-    "currentFreeText": "Gratis del 09 abr al 16 abr",
-    "dateTime": "2026-04-09T15:00:00.000Z",
-    "dateInMiliseconds": 1775746800000
+    "currentFreeText": "Gratis del 16 abr al 23 abr",
+    "dateTime": "2026-04-16T15:00:00.000Z",
+    "dateInMiliseconds": 1776351600000
   }
 ]
