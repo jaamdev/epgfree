@@ -1,38 +1,29 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1ved6.jpg?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/idle-champions-of-the-forgotten-realms",
-    "titleGame": "Idle Champions de Forgotten Realms",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1dr6j.png?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/tomak-save-the-earth-regeneration-c1207c",
+    "titleGame": "TOMAK: Save the Earth Regeneration",
     "currentFree": true,
-    "currentFreeText": "Gratis hasta el 12 mar a la(s) 16:00",
-    "dateTime": "2026-03-12T15:00:00.000Z",
-    "dateInMiliseconds": 1773327600000
+    "currentFreeText": "Gratis hasta el 16 abr a la(s) 17:00",
+    "dateTime": "2026-04-16T15:00:00.000Z",
+    "dateInMiliseconds": 1776351600000
   },
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/12f0012342a94c95985afbaa7568b51b/turnip-boy-robs-a-bank-1gqxf.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/turnip-boy-robs-a-bank-3fae0e",
-    "titleGame": "Turnip Boy Robs a Bank",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1inog.jpg?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/propsumo-ca8bd7",
+    "titleGame": "Prop Sumo",
     "currentFree": true,
-    "currentFreeText": "Gratis hasta el 12 mar a la(s) 16:00",
-    "dateTime": "2026-03-12T15:00:00.000Z",
-    "dateInMiliseconds": 1773327600000
+    "currentFreeText": "Gratis hasta el 16 abr a la(s) 17:00",
+    "dateTime": "2026-04-16T15:00:00.000Z",
+    "dateInMiliseconds": 1776351600000
   },
   {
-    "urlImg": "https://cdn1.epicgames.com/768ec2d3b5114ac4a800631b12ee3f31/offer/CG.2-1200x1600-6b8cbe5523543a3d16aa1d0aef8f188d.jpg?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/cozy-grove",
-    "titleGame": "Cozy Grove",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-hvdla.jpg?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/the-stone-of-madness-7b22f3",
+    "titleGame": "The Stone of Madness",
     "currentFree": false,
-    "currentFreeText": "Gratis del 12 mar al 19 mar",
-    "dateTime": "2026-03-12T15:00:00.000Z",
-    "dateInMiliseconds": 1773327600000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_Isonzo_BlackMillGames_S2_1200x1600-1225b5b75f29ea6723fcb23b2f3fae46?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/isonzo",
-    "titleGame": "Isonzo",
-    "currentFree": false,
-    "currentFreeText": "Gratis del 12 mar al 19 mar",
-    "dateTime": "2026-03-12T15:00:00.000Z",
-    "dateInMiliseconds": 1773327600000
+    "currentFreeText": "Gratis del 16 abr al 23 abr",
+    "dateTime": "2026-04-16T15:00:00.000Z",
+    "dateInMiliseconds": 1776351600000
   }
 ]
