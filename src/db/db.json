@@ -1,29 +1,29 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1dr6j.png?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/tomak-save-the-earth-regeneration-c1207c",
-    "titleGame": "TOMAK: Save the Earth Regeneration",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-120wd.jpg?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/doomblade-afdf9a",
+    "titleGame": "DOOMBLADE",
     "currentFree": true,
-    "currentFreeText": "Gratis hasta el 16 abr a la(s) 17:00",
-    "dateTime": "2026-04-16T15:00:00.000Z",
-    "dateInMiliseconds": 1776351600000
+    "currentFreeText": "Gratis hasta el 30 abr a la(s) 17:00",
+    "dateTime": "2026-04-30T15:00:00.000Z",
+    "dateInMiliseconds": 1777561200000
   },
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1inog.jpg?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/propsumo-ca8bd7",
-    "titleGame": "Prop Sumo",
-    "currentFree": true,
-    "currentFreeText": "Gratis hasta el 16 abr a la(s) 17:00",
-    "dateTime": "2026-04-16T15:00:00.000Z",
-    "dateInMiliseconds": 1776351600000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-hvdla.jpg?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/the-stone-of-madness-7b22f3",
-    "titleGame": "The Stone of Madness",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1vv9i.png?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/firestone-online-idle-rpg-bfd04b",
+    "titleGame": "Firestone Online Idle RPG",
     "currentFree": false,
-    "currentFreeText": "Gratis del 16 abr al 23 abr",
-    "dateTime": "2026-04-16T15:00:00.000Z",
-    "dateInMiliseconds": 1776351600000
+    "currentFreeText": "Gratis del 30 abr al 07 may",
+    "dateTime": "2026-04-30T15:00:00.000Z",
+    "dateInMiliseconds": 1777561200000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-117zi.png?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/es-ES/p/oddsparks-58440c",
+    "titleGame": "Oddsparks: An Automation Adventure",
+    "currentFree": false,
+    "currentFreeText": "Gratis del 30 abr al 07 may",
+    "dateTime": "2026-04-30T15:00:00.000Z",
+    "dateInMiliseconds": 1777561200000
   }
 ]
