@@ -1,38 +1,20 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-hafgt.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/firestone-online-idle-rpg-bfd04b",
-    "titleGame": "Firestone Online Idle RPG",
-    "currentFree": true,
-    "currentFreeText": "Gratis hasta el 07 may a la(s) 17:00",
-    "dateTime": "2026-05-07T15:00:00.000Z",
-    "dateInMiliseconds": 1778166000000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-1mdut.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/oddsparks-58440c",
-    "titleGame": "Oddsparks: An Automation Adventure",
-    "currentFree": true,
-    "currentFreeText": "Gratis hasta el 07 may a la(s) 17:00",
-    "dateTime": "2026-05-07T15:00:00.000Z",
-    "dateInMiliseconds": 1778166000000
-  },
-  {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-1dhii.jpg?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/es-ES/p/arranger-a-rolepuzzling-adventure-dbfde7",
     "titleGame": "Arranger: A Role-Puzzling Adventure",
-    "currentFree": false,
-    "currentFreeText": "Gratis del 07 may al 14 may",
-    "dateTime": "2026-05-07T15:00:00.000Z",
-    "dateInMiliseconds": 1778166000000
+    "currentFree": true,
+    "currentFreeText": "Gratis hasta el 14 may a la(s) 09:00",
+    "dateTime": "2026-05-14T15:00:00.000Z",
+    "dateInMiliseconds": 1778770800000
   },
   {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-6n7xr.png?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/es-ES/p/trash-goblin-cd5fd7",
     "titleGame": "Trash Goblin",
-    "currentFree": false,
-    "currentFreeText": "Gratis del 07 may al 14 may",
-    "dateTime": "2026-05-07T15:00:00.000Z",
-    "dateInMiliseconds": 1778166000000
+    "currentFree": true,
+    "currentFreeText": "Gratis hasta el 14 may a la(s) 09:00",
+    "dateTime": "2026-05-14T15:00:00.000Z",
+    "dateInMiliseconds": 1778770800000
   }
 ]
