@@ -25,18 +25,18 @@ import puppeteer from 'puppeteer'
   await new Promise(t => setTimeout(t, 1000 + Math.random() * 3000))
 
   const result = await page.evaluate(() => {
-    const nodeList = document.querySelectorAll('[data-component="FreeOfferCard"]')
+    const nodeList = document.querySelectorAll('[data-component="VaultOfferCard"]')
     const games = []
     const epicUrl = 'https://store.epicgames.com'
 
     for (let i = 0; i < nodeList.length; i++) {
       const element = nodeList[i]
-      const urlImg = element.getElementsByTagName('img')[0].getAttribute('src') || ''
-      const pathname = element.getElementsByTagName('a')[0].getAttribute('href') || ''
-      const titleGame = element.getElementsByTagName('h6')[0].innerText || ''
-      const currentFree = element.getElementsByTagName('span')[0].innerText.toLowerCase() === 'gratis ahora'
-      const currentFreeText = element.getElementsByTagName('span')[1].innerText || ''
-      const dateTime = element.getElementsByTagName('time')[0].getAttribute('datetime') || ''
+      const urlImg = element.querySelector('img')?.getAttribute('src') || ''
+      const pathname = element.querySelector('a')?.getAttribute('href') || ''
+      const titleGame = element.querySelector('h6')?.textContent || ''
+      const currentFree = element.querySelector('span')?.textContent.toLowerCase() === 'gratis ahora'
+      const currentFreeText = element.querySelector('span')?.textContent || ''
+      const dateTime = element.querySelector('time')?.getAttribute('datetime') || ''
       const dateInMiliseconds = new Date(dateTime).getTime()
       const urlGame = epicUrl + pathname
 
@@ -53,7 +53,7 @@ import puppeteer from 'puppeteer'
       games.push(result)
     }
 
-    return games
+    return games.filter(game => game.titleGame.length > 0)
   })
 
   await new Promise(t => setTimeout(t, 1000 + Math.random() * 3000))
