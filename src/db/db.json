@@ -1,20 +1,20 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-1dhii.jpg?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/arranger-a-rolepuzzling-adventure-dbfde7",
-    "titleGame": "Arranger: A Role-Puzzling Adventure",
+    "urlImg": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/OfferImageTall_1200x1600-ff1e19193cb54accadbf4d552ea24746?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/sunderfolk-standard-edition-83c05e",
+    "titleGame": "Sunderfolk - Standard Edition",
     "currentFree": true,
-    "currentFreeText": "Gratis hasta el 14 may a la(s) 09:00",
-    "dateTime": "2026-05-14T15:00:00.000Z",
-    "dateInMiliseconds": 1778770800000
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-05-21T15:00:00.000Z",
+    "dateInMiliseconds": 1779375600000
   },
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-6n7xr.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/es-ES/p/trash-goblin-cd5fd7",
-    "titleGame": "Trash Goblin",
+    "urlImg": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/TheTelltaleBatmanShadowsEdition_Tall-510x680-24368ffb56983936896f0a7d908667ec_510x680-a02b4d44f752434fae7005118347f599?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/the-telltale-batman",
+    "titleGame": "The Telltale Batman Shadows Edition",
     "currentFree": true,
-    "currentFreeText": "Gratis hasta el 14 may a la(s) 09:00",
-    "dateTime": "2026-05-14T15:00:00.000Z",
-    "dateInMiliseconds": 1778770800000
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-05-21T15:00:00.000Z",
+    "dateInMiliseconds": 1779375600000
   }
 ]
