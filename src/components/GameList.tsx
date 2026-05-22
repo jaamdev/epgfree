@@ -28,14 +28,12 @@ export default function GameList({ list }: Props) {
         href={urlGame}
         rel='noopener noreferrer nofollow external'
         target='_blank'
-        className='size-max group hover:scale-102 rounded-md overflow-hidden transition duration-300'
+        className='size-full sm:max-w-80 group hover:scale-102 rounded-t-md overflow-hidden transition duration-300'
       >
         <h3 className={`w-full p-2 text-center uppercase tracking-wide font-semibold ${currentFree ? 'bg-primary' : 'bg-black'}`}>{currentFree ? 'gratis ahora' : 'próximamente'}</h3>
-        <img alt={titleGame} src={urlImg} className='object-fill' />
+        <img alt={titleGame} src={urlImg} className='size-full object-fill' />
         <h2 className='
-            w-full p-2 text-center bg-secondary
-            group-hover:bg-primary text-xl font-semibold
-            transition duration-300
+            w-full p-2 text-left text-xl font-semibold
           '>{titleGame}</h2>
       </a>
     ))}
