@@ -1,20 +1,20 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Offer_Tall_1200x1600-d227c9897c1e4b2388f5a4963ba00f80?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/down-in-bermuda",
-    "titleGame": "Down in Bermuda",
+    "urlImg": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_S1_1200x1600-1a16717f6b894d48a74666ad3c222fd2?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/calico",
+    "titleGame": "Calico",
     "currentFree": true,
     "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-05-28T15:00:00.000Z",
-    "dateInMiliseconds": 1779980400000
+    "dateTime": "2026-06-04T15:00:00.000Z",
+    "dateInMiliseconds": 1780585200000
   },
   {
-    "urlImg": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Tall_1200x1600-69337ce1d78e490cbfc60415792613ab?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/tomb-raider-iiii-remastered-538640",
-    "titleGame": "Tomb Raider I-III Remastered Starring Lara Croft",
+    "urlImg": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/lonestar-1o6dd_1200x1600-a397ed892417495e8051a47c841d0a53?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/lonestar-83f143",
+    "titleGame": "LONESTAR",
     "currentFree": true,
     "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-05-28T15:00:00.000Z",
-    "dateInMiliseconds": 1779980400000
+    "dateTime": "2026-06-04T15:00:00.000Z",
+    "dateInMiliseconds": 1780585200000
   }
 ]
