@@ -25,7 +25,13 @@ import puppeteer from 'puppeteer'
   await new Promise(t => setTimeout(t, 1000 + Math.random() * 3000))
 
   const result = await page.evaluate(() => {
-    const nodeList = document.querySelectorAll('[data-component="VaultOfferCard"]')
+    const getNodeList = () => {
+      const vaultNodes = document.querySelectorAll('[data-component="VaultOfferCard"]')
+      const freeNodes = document.querySelectorAll('[data-component="FreeOfferCard"]')
+      return vaultNodes.length > 0 ? vaultNodes : freeNodes
+    }
+
+    const nodeList = getNodeList()
     const games = []
     const epicUrl = 'https://store.epicgames.com'
 
