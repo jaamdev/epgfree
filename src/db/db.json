@@ -1,38 +1,38 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-1f4ei.jpg?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/the-ouroboros-king-e1d547",
-    "titleGame": "The Ouroboros King",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-06-18T15:00:00.000Z",
-    "dateInMiliseconds": 1781794800000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1qfk9.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/warhammer-40k-speed-freeks-12879c",
-    "titleGame": "Warhammer 40K Speed Freeks",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-06-18T15:00:00.000Z",
-    "dateInMiliseconds": 1781794800000
-  },
-  {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-a7mun.jpg?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/citizen-sleeper-944858",
     "titleGame": "Citizen Sleeper",
-    "currentFree": false,
-    "currentFreeText": "Próximamente",
-    "dateTime": "2026-06-18T15:00:00.000Z",
-    "dateInMiliseconds": 1781794800000
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-06-25T15:00:00.000Z",
+    "dateInMiliseconds": 1782399600000
   },
   {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-15z8d.png?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/robobeat-5f084b",
     "titleGame": "ROBOBEAT",
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-06-25T15:00:00.000Z",
+    "dateInMiliseconds": 1782399600000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/rollercoaster-tycoon-3-complete-edition",
+    "titleGame": "RollerCoaster Tycoon 3 Complete Edition",
     "currentFree": false,
     "currentFreeText": "Próximamente",
-    "dateTime": "2026-06-18T15:00:00.000Z",
-    "dateInMiliseconds": 1781794800000
+    "dateTime": "2026-06-25T15:00:00.000Z",
+    "dateInMiliseconds": 1782399600000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-9gwxt.png?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/voidwrought-ce8f4b",
+    "titleGame": "Voidwrought",
+    "currentFree": false,
+    "currentFreeText": "Próximamente",
+    "dateTime": "2026-06-25T15:00:00.000Z",
+    "dateInMiliseconds": 1782399600000
   }
 ]
