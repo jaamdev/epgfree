@@ -1,38 +1,38 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/rollercoaster-tycoon-3-complete-edition",
-    "titleGame": "RollerCoaster Tycoon 3 Complete Edition",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-07-02T15:00:00.000Z",
-    "dateInMiliseconds": 1783004400000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-9gwxt.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/voidwrought-ce8f4b",
-    "titleGame": "Voidwrought",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-07-02T15:00:00.000Z",
-    "dateInMiliseconds": 1783004400000
-  },
-  {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-1f2lo.png?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2",
     "titleGame": "I Have No Mouth, and I Must Scream",
-    "currentFree": false,
-    "currentFreeText": "Próximamente",
-    "dateTime": "2026-07-02T15:00:00.000Z",
-    "dateInMiliseconds": 1783004400000
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-07-09T15:00:00.000Z",
+    "dateInMiliseconds": 1783609200000
   },
   {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-12b0w.png?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/river-city-girls-2-77af3a",
     "titleGame": "River City Girls 2",
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-07-09T15:00:00.000Z",
+    "dateInMiliseconds": 1783609200000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/download-nova-lands-offer-gtjce.png?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/nova-lands-4d1788",
+    "titleGame": "Nova Lands",
     "currentFree": false,
     "currentFreeText": "Próximamente",
-    "dateTime": "2026-07-02T15:00:00.000Z",
-    "dateInMiliseconds": 1783004400000
+    "dateTime": "2026-07-09T15:00:00.000Z",
+    "dateInMiliseconds": 1783609200000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-10uee.jpg?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/tattoo-tycoon-b4352c",
+    "titleGame": "Tattoo Tycoon",
+    "currentFree": false,
+    "currentFreeText": "Próximamente",
+    "dateTime": "2026-07-09T15:00:00.000Z",
+    "dateInMiliseconds": 1783609200000
   }
 ]
