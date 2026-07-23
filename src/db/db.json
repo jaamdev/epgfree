@@ -1,38 +1,29 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-1f2lo.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2",
-    "titleGame": "I Have No Mouth, and I Must Scream",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/foretales-d6c5bd",
+    "titleGame": "Foretales",
     "currentFree": true,
     "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-07-09T15:00:00.000Z",
-    "dateInMiliseconds": 1783609200000
+    "dateTime": "2026-07-30T15:00:00.000Z",
+    "dateInMiliseconds": 1785423600000
   },
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-12b0w.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/river-city-girls-2-77af3a",
-    "titleGame": "River City Girls 2",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-07-09T15:00:00.000Z",
-    "dateInMiliseconds": 1783609200000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/download-nova-lands-offer-gtjce.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/nova-lands-4d1788",
-    "titleGame": "Nova Lands",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-wtcug.jpg?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/otxo-396b8b",
+    "titleGame": "OTXO",
     "currentFree": false,
     "currentFreeText": "Próximamente",
-    "dateTime": "2026-07-09T15:00:00.000Z",
-    "dateInMiliseconds": 1783609200000
+    "dateTime": "2026-07-30T15:00:00.000Z",
+    "dateInMiliseconds": 1785423600000
   },
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-10uee.jpg?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/tattoo-tycoon-b4352c",
-    "titleGame": "Tattoo Tycoon",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-1ara2.png?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/sol-cesto-e9b803",
+    "titleGame": "Sol Cesto",
     "currentFree": false,
     "currentFreeText": "Próximamente",
-    "dateTime": "2026-07-09T15:00:00.000Z",
-    "dateInMiliseconds": 1783609200000
+    "dateTime": "2026-07-30T15:00:00.000Z",
+    "dateInMiliseconds": 1785423600000
   }
 ]
