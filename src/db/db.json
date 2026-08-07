@@ -1,29 +1,29 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/foretales-d6c5bd",
-    "titleGame": "Foretales",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/beacon-pines-offer-1l6ky.jpg?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/beacon-pines-629fc3",
+    "titleGame": "Beacon Pines",
     "currentFree": true,
     "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-07-30T15:00:00.000Z",
-    "dateInMiliseconds": 1785423600000
+    "dateTime": "2026-08-13T15:00:00.000Z",
+    "dateInMiliseconds": 1786633200000
   },
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-wtcug.jpg?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/otxo-396b8b",
-    "titleGame": "OTXO",
-    "currentFree": false,
-    "currentFreeText": "Próximamente",
-    "dateTime": "2026-07-30T15:00:00.000Z",
-    "dateInMiliseconds": 1785423600000
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1w9jc.png?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/we-were-here-together-6a6d66",
+    "titleGame": "We Were Here Together",
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-08-13T15:00:00.000Z",
+    "dateInMiliseconds": 1786633200000
   },
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-1ara2.png?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/sol-cesto-e9b803",
-    "titleGame": "Sol Cesto",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/caravan-sandwitch-05ff58",
+    "titleGame": "Caravan SandWitch",
     "currentFree": false,
     "currentFreeText": "Próximamente",
-    "dateTime": "2026-07-30T15:00:00.000Z",
-    "dateInMiliseconds": 1785423600000
+    "dateTime": "2026-08-13T15:00:00.000Z",
+    "dateInMiliseconds": 1786633200000
   }
 ]
