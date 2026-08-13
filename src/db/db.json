@@ -1,29 +1,29 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/beacon-pines-offer-1l6ky.jpg?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/beacon-pines-629fc3",
-    "titleGame": "Beacon Pines",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-08-13T15:00:00.000Z",
-    "dateInMiliseconds": 1786633200000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1w9jc.png?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/we-were-here-together-6a6d66",
-    "titleGame": "We Were Here Together",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-08-13T15:00:00.000Z",
-    "dateInMiliseconds": 1786633200000
-  },
-  {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg?resize=1&w=854&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/caravan-sandwitch-05ff58",
     "titleGame": "Caravan SandWitch",
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-08-20T15:00:00.000Z",
+    "dateInMiliseconds": 1787238000000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/cardpocalypse",
+    "titleGame": "Edición estándar de Cardpocalypse",
     "currentFree": false,
     "currentFreeText": "Próximamente",
-    "dateTime": "2026-08-13T15:00:00.000Z",
-    "dateInMiliseconds": 1786633200000
+    "dateTime": "2026-08-20T15:00:00.000Z",
+    "dateInMiliseconds": 1787238000000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-1mt3f.png?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/albion-online-epic-mage-bundle-2ceb19",
+    "titleGame": "Paquete de Mago Épico",
+    "currentFree": false,
+    "currentFreeText": "Próximamente",
+    "dateTime": "2026-08-20T15:00:00.000Z",
+    "dateInMiliseconds": 1787238000000
   }
 ]
