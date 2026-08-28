@@ -1,38 +1,29 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/cards2_1200x1600-2e006bcbe82d7cf71d5102fc3566b7e5?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/cardpocalypse",
-    "titleGame": "Edición estándar de Cardpocalypse",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-08-27T15:00:00.000Z",
-    "dateInMiliseconds": 1787842800000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-13a5x.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/albion-online-epic-mage-bundle-2ceb19",
-    "titleGame": "Paquete de Mago Épico",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-08-27T15:00:00.000Z",
-    "dateInMiliseconds": 1787842800000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg?resize=1&w=360&h=480&quality=medium",
+    "urlImg": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg?resize=1&w=854&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/breathedge",
     "titleGame": "Breathedge",
-    "currentFree": false,
-    "currentFreeText": "Próximamente",
-    "dateTime": "2026-08-27T15:00:00.000Z",
-    "dateInMiliseconds": 1787842800000
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-09-03T15:00:00.000Z",
+    "dateInMiliseconds": 1788447600000
   },
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-lsten.jpg?resize=1&w=360&h=480&quality=medium",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg?resize=1&w=854&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
     "titleGame": "Rival Stars Horse Racing : Desktop Edition",
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-09-03T15:00:00.000Z",
+    "dateInMiliseconds": 1788447600000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/alone-with-you-028a15",
+    "titleGame": "Alone With You",
     "currentFree": false,
     "currentFreeText": "Próximamente",
-    "dateTime": "2026-08-27T15:00:00.000Z",
-    "dateInMiliseconds": 1787842800000
+    "dateTime": "2026-09-03T15:00:00.000Z",
+    "dateInMiliseconds": 1788447600000
   }
 ]
