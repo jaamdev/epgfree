@@ -1,29 +1,29 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/breathedge",
-    "titleGame": "Breathedge",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-09-03T15:00:00.000Z",
-    "dateInMiliseconds": 1788447600000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
-    "titleGame": "Rival Stars Horse Racing : Desktop Edition",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-09-03T15:00:00.000Z",
-    "dateInMiliseconds": 1788447600000
-  },
-  {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png?resize=1&w=854&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/alone-with-you-028a15",
     "titleGame": "Alone With You",
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-09-10T15:00:00.000Z",
+    "dateInMiliseconds": 1789052400000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/astral-ascent-b33bc2",
+    "titleGame": "Astral Ascent",
     "currentFree": false,
     "currentFreeText": "Próximamente",
-    "dateTime": "2026-09-03T15:00:00.000Z",
-    "dateInMiliseconds": 1788447600000
+    "dateTime": "2026-09-10T15:00:00.000Z",
+    "dateInMiliseconds": 1789052400000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/luftrausers-51e5e9",
+    "titleGame": "Luftrausers",
+    "currentFree": false,
+    "currentFreeText": "Próximamente",
+    "dateTime": "2026-09-10T15:00:00.000Z",
+    "dateInMiliseconds": 1789052400000
   }
 ]
