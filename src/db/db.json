@@ -1,29 +1,38 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/alone-with-you-028a15",
-    "titleGame": "Alone With You",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-09-10T15:00:00.000Z",
-    "dateInMiliseconds": 1789052400000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png?resize=1&w=854&h=480&quality=medium",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-15n1j.jpg?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/astral-ascent-b33bc2",
     "titleGame": "Astral Ascent",
-    "currentFree": false,
-    "currentFreeText": "Próximamente",
-    "dateTime": "2026-09-10T15:00:00.000Z",
-    "dateInMiliseconds": 1789052400000
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-09-17T15:00:00.000Z",
+    "dateInMiliseconds": 1789657200000
   },
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png?resize=1&w=854&h=480&quality=medium",
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-11phb.png?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/luftrausers-51e5e9",
     "titleGame": "Luftrausers",
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-09-17T15:00:00.000Z",
+    "dateInMiliseconds": 1789657200000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ppb5.jpg?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/mindcop-78e6c1",
+    "titleGame": "Mindcop",
     "currentFree": false,
     "currentFreeText": "Próximamente",
-    "dateTime": "2026-09-10T15:00:00.000Z",
-    "dateInMiliseconds": 1789052400000
+    "dateTime": "2026-09-17T15:00:00.000Z",
+    "dateInMiliseconds": 1789657200000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-6ynli.jpg?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/shogun-showdown-61832d",
+    "titleGame": "Shogun Showdown",
+    "currentFree": false,
+    "currentFreeText": "Próximamente",
+    "dateTime": "2026-09-17T15:00:00.000Z",
+    "dateInMiliseconds": 1789657200000
   }
 ]
