@@ -1,38 +1,38 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-15n1j.jpg?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/astral-ascent-b33bc2",
-    "titleGame": "Astral Ascent",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-09-17T15:00:00.000Z",
-    "dateInMiliseconds": 1789657200000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-11phb.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/luftrausers-51e5e9",
-    "titleGame": "Luftrausers",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-09-17T15:00:00.000Z",
-    "dateInMiliseconds": 1789657200000
-  },
-  {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ppb5.jpg?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/mindcop-78e6c1",
     "titleGame": "Mindcop",
-    "currentFree": false,
-    "currentFreeText": "Próximamente",
-    "dateTime": "2026-09-17T15:00:00.000Z",
-    "dateInMiliseconds": 1789657200000
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-09-24T15:00:00.000Z",
+    "dateInMiliseconds": 1790262000000
   },
   {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-6ynli.jpg?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/shogun-showdown-61832d",
     "titleGame": "Shogun Showdown",
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-09-24T15:00:00.000Z",
+    "dateInMiliseconds": 1790262000000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/download-astrea-six-sided-oracles-offer-av5rc.png?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/astrea-six-sided-oracles-33c949",
+    "titleGame": "Astrea Six Sided Oracles",
     "currentFree": false,
     "currentFreeText": "Próximamente",
-    "dateTime": "2026-09-17T15:00:00.000Z",
-    "dateInMiliseconds": 1789657200000
+    "dateTime": "2026-09-24T15:00:00.000Z",
+    "dateInMiliseconds": 1790262000000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-1jq5t.jpg?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/mechabellum-88a843",
+    "titleGame": "Mechabellum",
+    "currentFree": false,
+    "currentFreeText": "Próximamente",
+    "dateTime": "2026-09-24T15:00:00.000Z",
+    "dateInMiliseconds": 1790262000000
   }
 ]
