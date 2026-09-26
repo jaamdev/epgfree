@@ -1,38 +1,38 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ppb5.jpg?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/mindcop-78e6c1",
-    "titleGame": "Mindcop",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-09-24T15:00:00.000Z",
-    "dateInMiliseconds": 1790262000000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-6ynli.jpg?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/shogun-showdown-61832d",
-    "titleGame": "Shogun Showdown",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-09-24T15:00:00.000Z",
-    "dateInMiliseconds": 1790262000000
-  },
-  {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/download-astrea-six-sided-oracles-offer-av5rc.png?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/astrea-six-sided-oracles-33c949",
     "titleGame": "Astrea Six Sided Oracles",
-    "currentFree": false,
-    "currentFreeText": "Próximamente",
-    "dateTime": "2026-09-24T15:00:00.000Z",
-    "dateInMiliseconds": 1790262000000
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-10-01T15:00:00.000Z",
+    "dateInMiliseconds": 1790866800000
   },
   {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-1jq5t.jpg?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/mechabellum-88a843",
     "titleGame": "Mechabellum",
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-10-01T15:00:00.000Z",
+    "dateInMiliseconds": 1790866800000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-yijfe.png?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/buried-stars-d7c88c",
+    "titleGame": "BURIED STARS",
     "currentFree": false,
     "currentFreeText": "Próximamente",
-    "dateTime": "2026-09-24T15:00:00.000Z",
-    "dateInMiliseconds": 1790262000000
+    "dateTime": "2026-10-01T15:00:00.000Z",
+    "dateInMiliseconds": 1790866800000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-15vqr.jpg?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/system-shock-2-25th-anniversary-remaster-cb94d9",
+    "titleGame": "System Shock 2: 25th Anniversary Remaster",
+    "currentFree": false,
+    "currentFreeText": "Próximamente",
+    "dateTime": "2026-10-01T15:00:00.000Z",
+    "dateInMiliseconds": 1790866800000
   }
 ]
