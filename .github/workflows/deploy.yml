@@ -34,9 +34,6 @@ jobs:
           runtime: node@24
           cache: true
 
-      - name: Install dependencies
-        run: pnpm install
-
       - name: Build
         run: pnpm run build
 
