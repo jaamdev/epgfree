@@ -30,7 +30,7 @@ jobs:
       - name: Set up pnpm and node
         uses: pnpm/setup@v3
         with:
-          version: lts/*
+          version: 12
           runtime: node@24
           cache: true
 
