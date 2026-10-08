@@ -1,38 +1,38 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-yijfe.png?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/buried-stars-d7c88c",
-    "titleGame": "BURIED STARS",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-10-08T15:00:00.000Z",
-    "dateInMiliseconds": 1791471600000
-  },
-  {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-15vqr.jpg?resize=1&w=360&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/system-shock-2-25th-anniversary-remaster-cb94d9",
-    "titleGame": "System Shock 2: 25th Anniversary Remaster",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-10-08T15:00:00.000Z",
-    "dateInMiliseconds": 1791471600000
-  },
-  {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-tfgmv.jpg?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/out-of-sight-b96ca8",
     "titleGame": "Out of Sight",
-    "currentFree": false,
-    "currentFreeText": "Próximamente",
-    "dateTime": "2026-10-08T15:00:00.000Z",
-    "dateInMiliseconds": 1791471600000
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-10-15T15:00:00.000Z",
+    "dateInMiliseconds": 1792076400000
   },
   {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-x908b.png?resize=1&w=360&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/terrascape-2b12b1",
     "titleGame": "TerraScape",
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-10-15T15:00:00.000Z",
+    "dateInMiliseconds": 1792076400000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-gqv76.png?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/agent-a-a-puzzle-in-disguise-42fe5f",
+    "titleGame": "Agent A - un puzle disfrazado",
     "currentFree": false,
     "currentFreeText": "Próximamente",
-    "dateTime": "2026-10-08T15:00:00.000Z",
-    "dateInMiliseconds": 1791471600000
+    "dateTime": "2026-10-15T15:00:00.000Z",
+    "dateInMiliseconds": 1792076400000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-kcgyv.png?resize=1&w=360&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/bad-cheese-4256d9",
+    "titleGame": "Bad Cheese",
+    "currentFree": false,
+    "currentFreeText": "Próximamente",
+    "dateTime": "2026-10-15T15:00:00.000Z",
+    "dateInMiliseconds": 1792076400000
   }
 ]
