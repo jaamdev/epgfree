@@ -1,29 +1,29 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/sorry-were-closed-724c86",
-    "titleGame": "Sorry We're Closed",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-11-05T16:00:00.000Z",
-    "dateInMiliseconds": 1793894400000
-  },
-  {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg?resize=1&w=854&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/flotsam-266287",
     "titleGame": "Flotsam",
-    "currentFree": false,
-    "currentFreeText": "Próximamente",
-    "dateTime": "2026-11-05T16:00:00.000Z",
-    "dateInMiliseconds": 1793894400000
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-11-12T16:00:00.000Z",
+    "dateInMiliseconds": 1794499200000
   },
   {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1cv5z.jpg?resize=1&w=854&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms",
     "titleGame": "Idle Champions de Forgotten Realms",
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-11-12T16:00:00.000Z",
+    "dateInMiliseconds": 1794499200000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/knightica-3be45c",
+    "titleGame": "Knightica",
     "currentFree": false,
     "currentFreeText": "Próximamente",
-    "dateTime": "2026-11-05T16:00:00.000Z",
-    "dateInMiliseconds": 1793894400000
+    "dateTime": "2026-11-12T16:00:00.000Z",
+    "dateInMiliseconds": 1794499200000
   }
 ]
