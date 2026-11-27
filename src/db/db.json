@@ -1,29 +1,29 @@
 [
   {
-    "urlImg": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png?resize=1&w=854&h=480&quality=medium",
-    "urlGame": "https://store.epicgames.com/p/mark-of-the-deep-f7dc08",
-    "titleGame": "Mark of the Deep",
-    "currentFree": true,
-    "currentFreeText": "Gratis ahora",
-    "dateTime": "2026-11-26T16:00:00.000Z",
-    "dateInMiliseconds": 1795708800000
-  },
-  {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg?resize=1&w=854&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/bread-and-fred-1db362",
     "titleGame": "Bread and Fred",
-    "currentFree": false,
-    "currentFreeText": "Próximamente",
-    "dateTime": "2026-11-26T16:00:00.000Z",
-    "dateInMiliseconds": 1795708800000
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-12-03T16:00:00.000Z",
+    "dateInMiliseconds": 1796313600000
   },
   {
     "urlImg": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-7mnjq.jpg?resize=1&w=854&h=480&quality=medium",
     "urlGame": "https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b",
     "titleGame": "Firestone – Idle Clicker Online RPG",
+    "currentFree": true,
+    "currentFreeText": "Gratis ahora",
+    "dateTime": "2026-12-03T16:00:00.000Z",
+    "dateInMiliseconds": 1796313600000
+  },
+  {
+    "urlImg": "https://cdn1.epicgames.com/spt-assets/d0e3b7c3690c485ca7a435d298262ab2/strange-antiquities-1kl5s.png?resize=1&w=854&h=480&quality=medium",
+    "urlGame": "https://store.epicgames.com/p/strange-antiquities-e37660",
+    "titleGame": "Strange Antiquities",
     "currentFree": false,
     "currentFreeText": "Próximamente",
-    "dateTime": "2026-11-26T16:00:00.000Z",
-    "dateInMiliseconds": 1795708800000
+    "dateTime": "2026-12-03T16:00:00.000Z",
+    "dateInMiliseconds": 1796313600000
   }
 ]
